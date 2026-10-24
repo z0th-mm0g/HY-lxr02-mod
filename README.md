@@ -1,4 +1,4 @@
-[README_1.md](https://github.com/user-attachments/files/33906666/README_1.md)
+
 <img width="1280" height="60" alt="Screenshot 2026-10-24 at 11 27 23 AM" src="https://github.com/user-attachments/assets/8b7099b8-e39a-40cf-949b-4016445a163c" />
 
 # Heal Youth mod para el Erica Synths LXR-02
