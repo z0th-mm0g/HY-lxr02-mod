@@ -1,15 +1,15 @@
 
 <img width="1280" height="60" alt="Screenshot 2026-10-24 at 11 27 23 AM" src="https://github.com/user-attachments/assets/8b7099b8-e39a-40cf-949b-4016445a163c" />
 
-# Heal Youth mod para el Erica Synths LXR-02
+# HY mod para el Erica Synths LXR-02
 
 Firmware modificado (no oficial) para el Erica Synths LXR-02, basado en el firmware
-oficial open source v1.7 de Erica Synths (GPL-3.0). Autor del mod: Heal Youth // Zwolle Poxi.
+oficial open source v1.7 de Erica Synths (GPL-3.0). Autor del mod: HY / Zwolle Poxi.
 
 > Firmware modificado: úsalo bajo tu propio riesgo. Erica Synths no da soporte para firmware
 > modificado. Siempre podés volver al oficial instalando su `.img` por la SD.
 
-## Qué agrega
+## MODS
 
 - **Beat repeat (FX `rpt`)**: stutter sincronizado al tempo. `typ` = fwd / rev / rnd,
   `len` = largo (1/4 … 1/128, se muestra el nombre), `prb` = chance por paso
